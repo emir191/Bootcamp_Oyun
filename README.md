@@ -1,13 +1,21 @@
-# Bootcamp_Oyun
-# 🎮 Oyun İsmi
-ADA:SON UMUT
+# ADA SON UMUT
 
+<img width="1621" height="759" alt="Ekran görüntüsü 2026-05-19 131350" src="https://github.com/user-attachments/assets/64b4d816-93fe-4366-a231-da721268b366" />
+
+
+Oyun Videosu:https://www.youtube.com/watch?v=nMpIoZrMhPQ
 
 ---
 
 ## 📝 Oyun Açıklaması
-Okyanusun ortasında mahsur kalan karakterimiz, umutsuzluk içinde bir çıkış yolu aramaktadır. Tam her şeyin bittiğini düşündüğü anda, ufukta gizemli bir ada belirir. Son gücüyle adaya doğru yol almaya başlar. Ancak bu ada sıradan bir yer değildir; burada kalmanın kuralları vardır. Hayatta kalmak için yalnızca doğayla değil, adanın sunduğu zorlu engellerle de mücadele etmesi gerekir. Karakterimiz, tüm bu zorlukları aşarak adada kalma hakkını kazanmak zorundadır.
-Macera ve Aksiyon türlerine hitap eden oyun aynı zamanda keyifli ve eğlenceli bir deneyim sunuyor.
+
+## 🏝️ Hikaye & Genel Bakış
+Okyanusun ortasında mahsur kaldıktan sonra gizemli bir adaya sığınan karakterimiz, adada kalabilmek için yerlilerin sunduğu fizik ve refleks sınavlarını aşmak zorundadır.
+
+## 🎮 Oynanış Mekanikleri
+* **Trambolin Fiziği:** Karakterin zıplama ivmesini, yüksekliğini ve açısını doğru zamanda kontrol et.
+* **Hedefe Fırlatma:** Havadaki topları yakala ve dinamik olarak yerleştirilmiş kutulara isabet ettir.
+* **Zamanlama ve Refleks:** Ardı ardına gelen hedefleri kaçırmadan skoru katla ve adadaki hayatta kalma mücadelesini tamamla.
 
 ---
 
