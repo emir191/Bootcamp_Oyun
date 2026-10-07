@@ -3,7 +3,7 @@
 <img width="1621" height="759" alt="Ekran görüntüsü 2026-05-19 131350" src="https://github.com/user-attachments/assets/64b4d816-93fe-4366-a231-da721268b366" />
 
 
-Oyun Videosu:https://www.youtube.com/watch?v=nMpIoZrMhPQ
+
 
 ---
 
